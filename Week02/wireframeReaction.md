@@ -1,0 +1,3 @@
+# Reaction to Article:
+
+- This information really clarifies the benefits of wireframing in UX design. This article emphasizes the importance of thoroughly understanding the problem before starting any design work. Using early sketches to map workflows and identify potential issues is a practical and helpful suggestion. It was also useful to be reminded to become comfortable with your tools in order to work more efficiently. Overall, these tips make a lot of sense for creating effective designs that meet the needs of both the team and users.
